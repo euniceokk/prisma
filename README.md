@@ -3,10 +3,11 @@ This R Shiny application generates a [PRISMA 2020 compliant](https://www.prisma-
 ## Features
 - PRISMA 2020 compliant flow diagram
 - Generated manuscript text
--  Methods paragraph
--  Figure description
+- Methods paragraph
+- Summary of all counts
+- Figure description
 - PRISMA compliant checklist
-- .dot and CSV export options
+- .dot, CSV, SVG, and PNG export options
 ## Required packages
 - shiny
 - DiagrammeR
