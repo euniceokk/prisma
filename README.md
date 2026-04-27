@@ -7,7 +7,7 @@ This R Shiny application generates a [PRISMA 2020 compliant](https://www.prisma-
 - Summary of all counts
 - Figure description
 - PRISMA compliant checklist
-- .dot, CSV, SVG, and PNG export options
+- .dot, CSV, SVG, PNG, and PDF export options
 ## Required packages
 - shiny
 - DiagrammeR
