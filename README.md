@@ -1,5 +1,5 @@
 # PRISMA 2020 Flow Diagram
-This R Shiny application generates a [PRISMA 2020 compliant](https://www.prisma-statement.org/) flow diagram for systematic reviews. This diagram presents the inclusion and exclusion criteria of systematic reviews and meta-analysis. 
+[This](https://eok7.shinyapps.io/PRISMA/) R Shiny application generates [PRISMA 2020 compliant](https://www.prisma-statement.org/) flow diagrams for systematic reviews. Diagrams present the inclusion and exclusion criteria of systematic reviews and meta-analysis. The app is able to generate up to six flowcharts reflecting six different subtopics.
 ## Features
 - PRISMA 2020 compliant flow diagram
 - Generated manuscript text
